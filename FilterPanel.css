@@ -1,0 +1,64 @@
+.filter-container {
+  width: 250px;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+
+ .filter-title {
+  margin-left: 5px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.checkbox-container input {
+  margin-right: 10px;
+}
+
+.price-range {
+  display: flex;
+  flex-direction: column;
+}
+
+.price-range input[type='range'] {
+  margin: 5px 0;
+}
+
+.search-box {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.search-box input {
+  flex-grow: 1;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.search-box button {
+  margin-left: 5px;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+  h4 {
+    display: block;
+    
+
+}

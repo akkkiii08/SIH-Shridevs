@@ -1,0 +1,31 @@
+.chat-issue-container {
+    width: 237px;
+    height: 77px;
+    padding-top: 14px;
+    padding-bottom: 13px;
+    padding-left: 15px;
+    background-color: #0A14FF;
+    border-radius: 20px;
+    overflow: hidden;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 16px;
+    display: inline-flex;
+  }
+  
+  .chat-icon {
+    width: 64px;
+    height: 50px;
+  }
+  
+  .chat-text {
+    width: 142px;
+    height: 34px;
+    font-size: 16px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: 600;
+    line-height: 22.4px;
+    color: black;
+    word-wrap: break-word;
+  }
+  
