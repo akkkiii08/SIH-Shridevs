@@ -1,0 +1,35 @@
+.filter-container {
+    border:1px solid #d4d4d4;
+    padding: 20px;
+    width: 200px;
+    
+  }
+  
+  h3 {
+    margin-top: 0;
+    font-size: 1rem;
+    text-align: left;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  
+  .filter-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
